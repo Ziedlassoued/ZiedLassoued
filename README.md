@@ -18,7 +18,7 @@
 [<img align="left" alt="zied | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="zied | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/facebook.svg"/>][facebook]
 [<img align="left" alt="zied | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/xing.svg"/>][facebook]
-
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
