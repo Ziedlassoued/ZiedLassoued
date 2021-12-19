@@ -2,7 +2,7 @@
 
 [![LinkedIn Follow](https://img.shields.io/twitter/follow/Zied?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zied-lassoued-494682222/)
 
-## I'm a Husband, Father and Developer!!
+## I'm a Husband, Father and Junior Developer!!
 
 - 🔭 I just launched my first App: [Mein Held][mein app]
 - 🌱 I’m currently learning everything 🤣
