@@ -12,10 +12,8 @@
 - ⚡ Fun fact: I love beautiful beaches, chilling out and coding
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ziedlassoued&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <br />
 <br />
-
 ---
 ### Connect with me:
 
