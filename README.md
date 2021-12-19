@@ -41,29 +41,7 @@
 <br/>
 <br/>
 
----
 
-### 📕 Latest Activity
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1]
-2. ❗️ Closed issue [#1]
-3. ❌ Closed PR [#11]
-4. 🗣 Commented on [#11]
-5. 🎉 Merged PR [#10]
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="zieds GitHub Stats" src="" />
-
-</details>
 
 <br/>
 <br/>
