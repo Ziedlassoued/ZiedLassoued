@@ -13,6 +13,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ziedlassoued&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<br />
+<br />
+
+---
 ### Connect with me:
 
 [<img align="left" alt="zied | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg" />][linkedin]
@@ -42,8 +46,7 @@
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
-<br/>
-<br/>
+
 
 
 
@@ -71,17 +74,4 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
-**Ziedlassoued/ZiedLassoued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
