@@ -1,4 +1,4 @@
-### Hi there. I'M Zied 👋
+### Hi there. I'm Zied 👋
 
 [![LinkedIn Follow](https://img.shields.io/twitter/follow/Zied?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zied-lassoued-494682222/)
 
